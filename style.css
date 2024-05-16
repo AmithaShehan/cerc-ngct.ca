@@ -1,0 +1,14 @@
+body{
+    background-image: url(./images/homepage-background-image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif, Courier, monospace;
+}
+
+.fs-1-custom{
+    font-size: 3.5rem;
+}
+
+.text-justify{
+    text-align: justify;
+}
