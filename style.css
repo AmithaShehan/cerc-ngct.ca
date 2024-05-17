@@ -4,6 +4,7 @@ body{
     background-image: url(./images/homepage-background-image0.2.png);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     font-family: Inter, Arial, Helvetica, sans-serif, Courier, monospace;
     width: 100%;
 }
