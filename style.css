@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
-.home-body{
+.home-body, body{
     background-image: url(./images/homepage-background-image0.2.png);
     background-size: cover;
     background-repeat: no-repeat;
