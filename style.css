@@ -47,5 +47,7 @@ main{
     clip: text;
     -webkit-text-fill-color: transparent;
   }
-
+.w-60{
+    width: 60%;
+}
   
