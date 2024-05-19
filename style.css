@@ -53,3 +53,16 @@ main{
     width: 60%;
 }
   
+footer a{
+    text-decoration: none;
+    color: white;
+    padding: 0px 10px;
+}
+
+footer a:hover{
+    text-decoration: underline;
+}
+
+.footer-menu{
+    margin-top: 10px;
+}
