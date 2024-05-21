@@ -166,6 +166,7 @@ footer a:hover{
 }
 
 #progress{
+    background-color: #000888;
     position: fixed;
     bottom: 20px;
     right: 20px;
